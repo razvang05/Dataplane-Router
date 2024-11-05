@@ -1,7 +1,8 @@
-# Dataplane-Router
+    Dataplane router
 
 
 Gheorghe Marius Razvan 324 CA
+
 
 Punctul de plecare al temei a fost laboratorul 4 adica partea de ipv4.
 
@@ -26,3 +27,5 @@ Resetez ttl ul,setez lungimea totala a pachetului pentru a cuprinde headerul
 ip si cel icmp si reactualizez checksum ul headerului ip.
 Setez type pentru icmp (echo reply etc).
 Fac o inversare a adreselor MAC si apoi trimit pachetul prin interfata initiala.
+
+
