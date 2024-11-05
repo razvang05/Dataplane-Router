@@ -3,7 +3,6 @@
 
 Gheorghe Marius Razvan 324 CA
 
-
 Punctul de plecare al temei a fost laboratorul 4 adica partea de ipv4.
 
 Am implementat procesul de dirijare, longest prefix match si protocolul icmp, doar arp static.
